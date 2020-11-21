@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 6e4312daaac1bcf979de4ac5617cc8e78d635909 Aditya Chauhan <sunnyaditya48@gmail.com> 1598156665 -0500	commit (initial): initial commit
-6e4312daaac1bcf979de4ac5617cc8e78d635909 7b04a0250503192854499238b1348bc2248da574 Aditya Chauhan <sunnyaditya48@gmail.com> 1598161837 -0500	commit: changed greeting
-7b04a0250503192854499238b1348bc2248da574 880de07c49a500000155f0ed779ca2234ec77786 Aditya Chauhan <sunnyaditya48@gmail.com> 1600028762 -0500	commit: finished auth flow
-880de07c49a500000155f0ed779ca2234ec77786 e5f478968fc29b1d16298f1ae9adf128ced8bf7a Aditya Chauhan <sunnyaditya48@gmail.com> 1600029728 -0500	commit: changed googlestrategy to allow proxy
-e5f478968fc29b1d16298f1ae9adf128ced8bf7a 30407aab106c343d13d12b5a1c87917ae22e00f0 Aditya Chauhan <sunnyaditya48@gmail.com> 1603660651 -0500	commit: Added billing and client side app
-30407aab106c343d13d12b5a1c87917ae22e00f0 3b9059c2600ab201a1dfb5048408a4f78e8da979 Aditya Chauhan <sunnyaditya48@gmail.com> 1605974552 -0600	commit: users can see survey results
